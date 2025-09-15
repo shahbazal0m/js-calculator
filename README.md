@@ -40,8 +40,7 @@ Calculator-Project/
 ---
 
 ## 🚀 How to Run
-1. Clone the repository or download the project files  
-   ```bash
+1. Clone the repository or download the project files 
    <[git clone]https://github.com/shahbazal0m/js-calculator.git>
 2. Navigate to the project folder
 cd Calculator-Project
